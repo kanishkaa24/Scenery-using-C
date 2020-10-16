@@ -2,7 +2,6 @@
 #include <conio.h>
 main()
 {
-    //test
    int gd=DETECT,gm;
    int points6[]={850,550,950,450,1050,550,850,550};
    int points[]={0,800,10,775,20,800,0,800};
